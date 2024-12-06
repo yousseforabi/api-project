@@ -1,5 +1,5 @@
 import React from 'react'
-import BookSearch from './pages/index'
+import BookSearch from './index'
 
 function App() {
   return (
